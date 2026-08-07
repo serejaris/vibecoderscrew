@@ -1,0 +1,10 @@
+# KiroCrew Code Owners
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Owners are auto-requested for review on every PR. Branch protection can
+# additionally enforce approval ("Require review from Code Owners").
+#
+# Community-fork ownership. Upstream ownership remains documented in the
+# kirodotdev/KiroCrew history.
+
+*                                   @serejaris

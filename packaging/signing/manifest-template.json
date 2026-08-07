@@ -1,0 +1,15 @@
+{
+  "source_only": true,
+  "notice": "VibecodersCrew does not publish signed desktop artifacts. This file is retained as historical upstream provenance; downstream distributors must supply their own app identity, certificate, and artifact transport.",
+  "manifest": {
+    "type": "app",
+    "os": "osx",
+    "name": "VibecodersCrew.app",
+    "outputs": [{ "label": "macos", "path": "VibecodersCrew.app" }],
+    "app": {
+      "identifier": "dev.serejaris.vibecoderscrew",
+      "embedded_requirements": {},
+      "signing_requirements": {}
+    }
+  }
+}
